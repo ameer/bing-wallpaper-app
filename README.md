@@ -5,7 +5,7 @@ This PowerShell script downloads the latest Microsoft Bing wallpaper and sets it
 - PowerShell 5.0 or later
 
 # Use EXE file
-You can find the latest exe file in the releases. It's just the same script which converted to exe using [PS2EXE](https://github.com/MScholtes/PS2EXE).
+You can also download the exe version from the repo. It's just the same script which converted to exe using [PS2EXE](https://github.com/MScholtes/PS2EXE).
 
 # Usage
 1. Clone the repository.
